@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ubAqPSFl4Gr6MD9XNSJcyTH5e5BW34v/aL6yjAc+8KEk0WmPVoKe2v4kyPAa5/GPnUaijkIkweUMLrpDNSGXjA==",
+  "dgSpecHash": "26p9nBpg0/NJhNV3HaJbCKhjXumNKdgYcKzSskRTe08teYR8aYF14gLE+bf8uZzeYOAKD30LVzEBxg1FRik63w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AlSLa\\source\\MonoGame\\TopDownShooter\\TopDownShooter\\TopDownShooter.csproj",
+  "projectFilePath": "C:\\Users\\AlSLa\\OneDrive - УрФУ\\Документы\\GitHub\\TopDownShooterGame\\TopDownShooter\\TopDownShooter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AlSLa\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
     "C:\\Users\\AlSLa\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",

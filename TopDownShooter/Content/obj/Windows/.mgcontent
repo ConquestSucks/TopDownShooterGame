@@ -4,9 +4,11 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/AlSLa/source/MonoGame/TopDownShooter/TopDownShooter/Content/player.png</File>
+    <File>C:/Users/AlSLa/OneDrive - УрФУ/Документы/GitHub/TopDownShooterGame/TopDownShooter/Content/bullet.png</File>
+    <File>C:/Users/AlSLa/OneDrive - УрФУ/Документы/GitHub/TopDownShooterGame/TopDownShooter/Content/player.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>
 </SourceFileCollection>

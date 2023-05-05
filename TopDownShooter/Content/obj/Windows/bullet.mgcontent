@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/AlSLa/OneDrive - УрФУ/Документы/GitHub/TopDownShooterGame/TopDownShooter/Content/player.png</SourceFile>
-  <SourceTime>2023-05-03T21:02:28.7011184+05:00</SourceTime>
-  <DestFile>C:/Users/AlSLa/OneDrive - УрФУ/Документы/GitHub/TopDownShooterGame/TopDownShooter/Content/bin/Windows/Content/player.xnb</DestFile>
-  <DestTime>2023-05-05T15:14:08.0181953+05:00</DestTime>
+  <SourceFile>C:/Users/AlSLa/OneDrive - УрФУ/Документы/GitHub/TopDownShooterGame/TopDownShooter/Content/bullet.png</SourceFile>
+  <SourceTime>2023-05-05T14:51:27.2192767+05:00</SourceTime>
+  <DestFile>C:/Users/AlSLa/OneDrive - УрФУ/Документы/GitHub/TopDownShooterGame/TopDownShooter/Content/bin/Windows/bullet.xnb</DestFile>
+  <DestTime>2023-05-05T15:45:35.1144611+05:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T16:44:56+05:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

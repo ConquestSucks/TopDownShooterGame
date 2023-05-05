@@ -1,4 +1,5 @@
 ﻿using Microsoft.Xna.Framework.Graphics;
+using TopDownShooter.Managers;
 
 namespace TopDownShooter
 {
@@ -8,6 +9,7 @@ namespace TopDownShooter
 
         public GameManager()
         {
+            ProjectileManager.Init();
             _player = new(Globals.Content.Load<Texture2D>("player"), new(200, 200));
         }
 
@@ -20,10 +22,12 @@ namespace TopDownShooter
         {
             InputManager.Update();
             _player.Update();
+            ProjectileManager.Update();
         }
 
         public void Draw()
         {
+            ProjectileManager.Draw();
            _player.Draw();
         }
     }

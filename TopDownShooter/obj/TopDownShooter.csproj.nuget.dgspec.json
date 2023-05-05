@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AlSLa\\source\\MonoGame\\TopDownShooter\\TopDownShooter\\TopDownShooter.csproj": {}
+    "C:\\Users\\AlSLa\\OneDrive - УрФУ\\Документы\\GitHub\\TopDownShooterGame\\TopDownShooter\\TopDownShooter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AlSLa\\source\\MonoGame\\TopDownShooter\\TopDownShooter\\TopDownShooter.csproj": {
+    "C:\\Users\\AlSLa\\OneDrive - УрФУ\\Документы\\GitHub\\TopDownShooterGame\\TopDownShooter\\TopDownShooter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AlSLa\\source\\MonoGame\\TopDownShooter\\TopDownShooter\\TopDownShooter.csproj",
+        "projectUniqueName": "C:\\Users\\AlSLa\\OneDrive - УрФУ\\Документы\\GitHub\\TopDownShooterGame\\TopDownShooter\\TopDownShooter.csproj",
         "projectName": "TopDownShooter",
-        "projectPath": "C:\\Users\\AlSLa\\source\\MonoGame\\TopDownShooter\\TopDownShooter\\TopDownShooter.csproj",
+        "projectPath": "C:\\Users\\AlSLa\\OneDrive - УрФУ\\Документы\\GitHub\\TopDownShooterGame\\TopDownShooter\\TopDownShooter.csproj",
         "packagesPath": "C:\\Users\\AlSLa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AlSLa\\source\\MonoGame\\TopDownShooter\\TopDownShooter\\obj\\",
+        "outputPath": "C:\\Users\\AlSLa\\OneDrive - УрФУ\\Документы\\GitHub\\TopDownShooterGame\\TopDownShooter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
