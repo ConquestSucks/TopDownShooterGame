@@ -29,7 +29,10 @@ namespace TopDownShooter
             if(InputManager.Direction != Vector2.Zero)
             {
                 var direction = Vector2.Normalize(InputManager.Direction);
-                Position += direction * Speed * Globals.TotalSeconds;
+                Position = new(
+                    MathHelper.Clamp(Position.X + (direction.X * Speed * Globals.TotalSeconds), 0, Globals.Bounds.X),
+                    MathHelper.Clamp(Position.Y + (direction.Y * Speed * Globals.TotalSeconds), 0, Globals.Bounds.Y)
+                );
             }
 
             var toMouse = InputManager.MousePosition - Position;

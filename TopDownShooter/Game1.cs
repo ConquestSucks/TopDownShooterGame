@@ -19,6 +19,7 @@ namespace TopDownShooter
 
         protected override void Initialize()
         {
+            Globals.Bounds = new(1440, 720);
             _graphics.IsFullScreen = false;
             _graphics.PreferredBackBufferWidth = 1440;
             _graphics.PreferredBackBufferHeight = 720;
